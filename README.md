@@ -35,7 +35,9 @@ https://api.quicksell.co/v1/internal/frontend-assignment
 - Group by Priority  
 ![image](https://github.com/user-attachments/assets/c68d4c6d-a319-4054-952c-9c86eaf01e22)
 
+
 -card image
+
 ![image](https://github.com/user-attachments/assets/24402494-f6a6-4c60-871e-a5b50d57d9b7) 
 ![image](https://github.com/user-attachments/assets/7d04bebc-4cd8-46d2-9b58-97190169511a)
 
@@ -63,7 +65,6 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    npm start
 
-The application will be available at http://localhost:5173.
 
 ## Deployment
 
