@@ -51,11 +51,11 @@ To get a local copy of this project up and running, follow these steps:
 1. **Clone the repository**
 
    bash
-   git clone https://github.com/rajendra-17/quicksell-kanban.git
+   git@github.com:rajendra-17/KanbanBoard-application.git
 
 2. **Navigate to the project directory**
    bash
-   cd quicksell-kanban
+   cd KanbanBoard-application
 
 3. **Install dependencies**
    bash
